@@ -1,0 +1,6 @@
+server:
+  port: 6789
+
+## 设置日志文件路径
+logging:
+  path: /Users/wensh.zhu/logs
